@@ -1,0 +1,26 @@
+{
+  "name": "inherent",
+  "version": "1.0.0",
+  "description": "Dynamic prototypical inheritance modeling for Node/IO.js",
+  "main": "inherent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topherbullock/inherent.git"
+  },
+  "keywords": [
+    "inheritance"
+  ],
+  "author": "topherbullock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topherbullock/inherent/issues"
+  },
+  "homepage": "https://github.com/topherbullock/inherent",
+  "devDependencies": {
+    "sinon": "^1.14.1",
+    "vows": "^0.8.1"
+  }
+}
